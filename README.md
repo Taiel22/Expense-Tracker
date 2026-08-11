@@ -30,7 +30,7 @@ The Expense Tracker provides a simple dashboard containing:
 - **Transactions**
 - **Add Transaction**
 
-Users can enter a transaction description and amount, then add it to their transaction list. :contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2}
+Users can enter a transaction description and amount, then add it to their transaction list. 
 
 ---
 
